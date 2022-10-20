@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Today is Oct 20, 2022 in Seattle, WA
+          Today is Oct 20, 2022 in San Diego, CA
         </p>
         <a
           className="App-link"
