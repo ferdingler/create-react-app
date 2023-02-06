@@ -1,0 +1,3 @@
+Default Asset
+
+This file is used for testing 404-200 rewrite rule. This file is served whenever a requested TXT file doesn't exist. 
